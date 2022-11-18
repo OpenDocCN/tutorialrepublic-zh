@@ -873,7 +873,7 @@
 +   [SQL 交叉连接操作](1423.md)
 +   [SQL 高级](1424.md)
 +   [SQL 联合操作](1425.md)
-+   [SQL LIKE 运算符](1426.md)
++   [SQL `LIKE`运算符](1426.md)
 +   [SQL `ALTER TABLE`语句](1427.md)
 +   [SQL 别名](1428.md)
 +   [SQL `GROUP BY`子句](1429.md)
